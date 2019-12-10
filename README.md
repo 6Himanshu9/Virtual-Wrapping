@@ -23,3 +23,8 @@ asking " Tell me something about P I E T"
 And much more basic Queries like above can be handled by this Virtual Assistant (VA)
 
 
+This Virtual Assistant is integrated with Google Assistant...
+
+To test this Virtual Assistant User must Say or type "" Ok google, Talk to Virtual Wrapping "".  The Google Assistant will redirect you to the Chatbot. 
+
+This Virtual assistant is made just by using the API.ai or Conversational AI. 

@@ -26,5 +26,7 @@ To test this Virtual Assistant User must Say or type "" Ok google, Talk to Virtu
 This Virtual assistant is made just by using the API.ai or Conversational AI. 
 
 Just download the zip file and go to API.ai console and create an agent. once agent is created successfully.
+
 Go to ... "Export and Import" ----> "IMPORT FROM ZIP" ----> "Save". 
+
 Sense free to pull any request. 

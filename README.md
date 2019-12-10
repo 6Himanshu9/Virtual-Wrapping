@@ -10,13 +10,9 @@ asking " Tell me something about P I E T"
 
 "Faculty and Facilities"
 
-"Academic Fee Structure"
-
-"Hostel / Transportation Fee stucture"
+"Fee Structure"
 
 "Courses Offered by P I E T"
-
-"Clubs / Societies at P I E T"
 
 "Life at P I E T"   etc...
 
@@ -29,4 +25,6 @@ To test this Virtual Assistant User must Say or type "" Ok google, Talk to Virtu
 
 This Virtual assistant is made just by using the API.ai or Conversational AI. 
 
+Just download the zip file and go to API.ai console and create an agent. once agent is created successfully.
+Go to ... "Export and Import" ----> "IMPORT FROM ZIP" ----> "Save". 
 Sense free to pull any request. 
